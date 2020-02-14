@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jahgieghae.bizorke.com/sitemap.xml
